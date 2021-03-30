@@ -14,7 +14,7 @@ Below are the indicators that we have used in our data:
 --------------------------------------------------------
 
 Poverty-I.csv have below attributes:
-....................................
+
 
 Country: 
 
@@ -46,7 +46,6 @@ Currency conversion:
 The impact of alternative exchange rate regimes on growth, inflation and the balance of payments and discusses the choice of the exchange rate regime that minimizes poverty under normal conditions and crisis periods.
 
 Poverty-II.csv have below attributes:
-.....................................
 
 Country: 
 
